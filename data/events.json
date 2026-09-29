@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1234",
+        "name": "social loop",
+        "date": "19/03/2009",
+        "time": "18:00",
+        "venue": "ab1 audi 1",
+        "organizer": "jatin",
+        "capacity": 200,
+        "status": "Upcoming"
+    },
+    {
+        "id": "e001",
+        "name": "ANTARA 2026",
+        "date": "19/09",
+        "time": "5:00PM",
+        "venue": "OPEN AUDI",
+        "organizer": "SHUKLA",
+        "capacity": 500,
+        "status": "Upcoming"
+    },
+    {
+        "id": "eoo3",
+        "name": "ignite",
+        "date": "12",
+        "time": "00",
+        "venue": "open audi",
+        "organizer": "ss",
+        "capacity": 20,
+        "status": "Upcoming"
+    }
+]

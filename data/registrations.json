@@ -1,0 +1,20 @@
+[
+    {
+        "student_id": "5678",
+        "event_id": "1234",
+        "event_name": "social loop",
+        "status": "Registered"
+    },
+    {
+        "student_id": "1503",
+        "event_id": "e001",
+        "event_name": "ANTARA 2026",
+        "status": "Cancelled"
+    },
+    {
+        "student_id": "26BCE10783",
+        "event_id": "e001",
+        "event_name": "ANTARA 2026",
+        "status": "Cancelled"
+    }
+]

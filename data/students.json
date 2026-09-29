@@ -1,0 +1,30 @@
+[
+    {
+        "id": "5678",
+        "name": "chinmay",
+        "email": "abc@gmail.com",
+        "course": "btech",
+        "year": "2026"
+    },
+    {
+        "id": "1503",
+        "name": "1245",
+        "email": "Jatinsinghjad@gmail.com",
+        "course": "cse core",
+        "year": "2026"
+    },
+    {
+        "id": "10008",
+        "name": "bhavesh",
+        "email": "bhavesh@gmail.com",
+        "course": "btech",
+        "year": "2026"
+    },
+    {
+        "id": "26BCE10783",
+        "name": "JATIN KUMAR SINGH",
+        "email": "JATINSINGHJAD@GMAIL.COM",
+        "course": "CSE CORE",
+        "year": "2026"
+    }
+]

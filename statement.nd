@@ -1,0 +1,134 @@
+# College Event Management System
+
+## 1. Problem Statement
+
+Colleges conduct various technical, cultural, academic, and extracurricular
+events throughout the academic year. Managing event details, student
+registrations, attendance, and event information manually can become
+difficult and time-consuming.
+
+The College Event Management System (CEMS) is designed to provide a
+simple computerized system for managing these activities in an organized
+manner.
+
+The system allows administrators to manage events and registrations while
+students can view events, register for events, and manage their
+registrations.
+
+---
+
+## 2. Scope of the Project
+
+The scope of the College Event Management System includes:
+
+- Creating and managing college events.
+- Viewing available events.
+- Updating event information.
+- Cancelling events.
+- Adding student information.
+- Registering students for events.
+- Viewing student registrations.
+- Cancelling registrations.
+- Recording student attendance.
+- Generating event-related reports and statistics.
+- Validating user input.
+- Maintaining project data using structured storage.
+
+The system is intended for college-level event management and can be
+extended with additional features in the future.
+
+---
+
+## 3. Target Users
+
+### Administrator / Event Coordinator
+
+The administrator can:
+
+- Create events.
+- View events.
+- Update events.
+- Cancel events.
+- View registrations.
+- Mark attendance.
+- Generate reports.
+
+### Students
+
+Students can:
+
+- View available events.
+- Add their student information.
+- Register for events.
+- View their registrations.
+- Cancel registrations.
+
+---
+
+## 4. High-Level Features
+
+### Event Management
+
+- Create new events.
+- View event details.
+- Update event information.
+- Cancel events.
+- Maintain event capacity and status.
+
+### Student Management
+
+- Add student information.
+- Validate student details.
+- Prevent duplicate student IDs.
+
+### Registration Management
+
+- Register students for events.
+- Prevent duplicate registrations.
+- Check event capacity.
+- Prevent registration for cancelled events.
+- Cancel existing registrations.
+
+### Attendance Management
+
+- Mark student attendance.
+- Allow Present or Absent status.
+- Update an existing attendance record.
+
+### Reporting and Analytics
+
+- Display total events.
+- Display total students.
+- Display active registrations.
+- Display cancelled registrations.
+- Display attendance information.
+- Display available seats.
+- Calculate attendance percentage.
+- Display the event with the highest number of registrations.
+
+### Validation and Error Handling
+
+- Prevent empty inputs.
+- Validate numerical input.
+- Validate email format.
+- Handle invalid menu choices.
+- Display meaningful error messages.
+
+---
+
+## 5. Technologies Used
+
+- Python
+- Python standard library
+- JSON-based data storage
+- Git and GitHub
+- Visual Studio Code
+
+---
+
+## 6. Project Objective
+
+The main objective of this project is to develop a modular Python-based
+system that simplifies the management of college events, student
+registrations, attendance, and reports while applying programming concepts
+learned in the course.
